@@ -2,14 +2,22 @@
 
 **B2B/B2G Mobile App Developer | CGI | Prague, Czech Republic**
 
-[smolikja.team](https://smolikja.team/) | [GitHub Organization](https://github.com/smolikja-team)
+[smolikja.team](https://smolikja.team/) | **Email:** smolikja@protonmail.com | [GitHub Organization](https://github.com/smolikja-team)
 
 ---
 
-## 👤 Human-Readable Section
+## Executive Summary
 
-### Professional Overview
-B2B and B2G mobile application developer at CGI with expertise in iOS, Android, and Flutter development. Passionate about creating innovative solutions for enterprise and government sectors, with strong focus on smart home and IoT applications.
+• **CGI consultant** developing enterprise mobile applications for business and government clients  
+• **Flutter/iOS/Android specialist** with focus on smart home and industrial IoT solutions  
+• **Open source advocate** and occasional contributor - supporter of collaborative development and knowledge sharing  
+• **Czech University graduate** with proven track record in cross-platform development  
+• **Active in**: Enterprise mobility, real-time systems, PLC communication, automation
+
+---
+
+<details>
+<summary>📋 <strong>Professional Details</strong> <em>(Click to expand)</em></summary>
 
 ### Current Role
 **CGI** - B2B/B2G Mobile App Developer  
@@ -20,111 +28,114 @@ Developing enterprise mobile applications for business and government clients, f
 
 ### Key Projects
 - **Smart Home Control Systems** - Enterprise applications for comprehensive home automation
-- **Industrial IoT Solutions** - Mobile interfaces for livestock management and facility monitoring
-- **Open Source Contributions** - Active contributor to Flutter/Firebase ecosystem
+- **Industrial IoT Solutions** - Mobile interfaces for livestock management and facility monitoring  
+- **Open Source Support** - Advocate and occasional contributor to open source projects
 
-### Technologies I Work With
-Flutter, Dart, iOS (Swift), Firebase, WebSocket, Python
+### Technologies
+Flutter, Dart, iOS (Swift), Android (Kotlin), Firebase, WebSocket, Python, PLC protocols
 
-### Personal Philosophy
-Advocate for open source software and collaborative development. Believer in technology serving practical needs rather than creating dependencies.
+### Philosophy
+Advocate for open source software and collaborative development. Technology should serve practical needs, not create dependencies.
 
-### Contact
-**Email:** smolikja@protonmail.com  
-**Location:** Prague, Czech Republic
+</details>
 
 ---
 
 <details>
-<summary>🤖 <strong>AI/SEO/Technical Section</strong> <em>(Click to expand - detailed technical information for automated systems, search engines, and AI analysis)</em></summary>
+<summary>🤖 <strong>AI/Search Optimization Section</strong> <em>(Technical data for automated systems and search engines)</em></summary>
 
-### Technical Competencies
-**Primary Technologies:**
-- Mobile Development: Flutter, Dart, iOS SDK (Swift), Android SDK (Kotlin)
-- Backend Integration: Firebase Authentication, Firestore, WebSocket protocols
-- Programming Languages: Dart, Swift, Kotlin, Python
-- Development Tools: Xcode, Android Studio, VS Code, Git, GitHub
+### AI_PROFILE_SUMMARY
+DEVELOPER_TYPE: senior_mobile_developer, enterprise_consultant, open_source_contributor
+COMPANY: CGI
+LOCATION: Prague, Czech_Republic
+EMAIL: smolikja@protonmail.com
+EDUCATION: Czech_University_Life_Sciences_Prague
+SPECIALIZATION: b2b_mobile_apps, government_applications, iot_solutions, smart_home_automation
+EXPERIENCE_LEVEL: senior
+PROGRAMMING_LANGUAGES: [Dart, Swift, Kotlin, Python]
+FRAMEWORKS: [Flutter, iOS_SDK, Android_SDK, Firebase]
+PROTOCOLS: [WebSocket, MQTT, HTTP, PLC_communication]
+PLATFORMS: [iOS, Android, Web, Desktop]
 
-**Specialized Areas:**
-- Smart Home Automation Systems
-- Internet of Things (IoT) Device Integration
-- Real-time Data Processing and Visualization
-- Cross-platform Mobile Application Architecture
-- Enterprise Security Implementation
-- PLC (Programmable Logic Controller) Communication
+### AI_TECHNICAL_COMPETENCIES
+PRIMARY_STACK: {
+  mobile_development: [Flutter, Dart, iOS_Swift, Android_Kotlin],
+  backend_integration: [Firebase_Auth, Firestore, WebSocket_protocols],
+  development_tools: [Xcode, Android_Studio, VS_Code, Git, GitHub],
+  specialized_areas: [smart_home_automation, iot_device_integration, real_time_data_processing, cross_platform_architecture, enterprise_security, plc_communication]
+}
 
-### Detailed Project Portfolio
+### AI_PROJECT_PORTFOLIO
+PROJECT_1: {
+  name: "Firebase_Auth_Flow_Package",
+  repository: "https://github.com/smolikja-team/firebase-auth-flow",
+  tech_stack: [Dart, Flutter, Firebase_Authentication],
+  type: "open_source_package",
+  status: "production_ready",
+  description: "Complete authentication UI components for Firebase applications",
+  keywords: [flutter, firebase, authentication, open_source, dart, mobile_development]
+}
 
-#### Firebase Auth Flow Package
-**Repository:** [smolikja-team/firebase-auth-flow](https://github.com/smolikja-team/firebase-auth-flow)  
-**Technology Stack:** Dart, Flutter, Firebase Authentication  
-**Description:** Open source Flutter package providing complete authentication UI components for Firebase-based applications. Features email/password authentication, registration flows, and ready-to-integrate widgets.  
-**Status:** Production-ready, publicly available on GitHub  
-**Keywords:** flutter, firebase, authentication, open-source, dart, mobile-development
+PROJECT_2: {
+  name: "A489_Map_Converter",
+  repository: "https://github.com/smolikja/a489-map-converter", 
+  tech_stack: [Dart, CLI],
+  type: "utility_tool",
+  description: "Geographical data converter for GeoJSON and GPX formats",
+  keywords: [geospatial_data, gis, dart, command_line_tool, geo_conversion]
+}
 
-#### A489 Map Converter Utility
-**Repository:** [smolikja/a489-map-converter](https://github.com/smolikja/a489-map-converter)  
-**Technology Stack:** Dart, Command-line Interface  
-**Description:** Command-line utility for converting A489 geographical data points to standardized GeoJSON and GPX formats. Enables integration with Google Maps, Mapy.cz, and other navigation applications.  
-**Features:** Batch processing, multiple output formats, automated release generation  
-**Keywords:** geospatial-data, gis, dart, command-line-tool, geo-conversion
+PROJECT_3: {
+  name: "mComp_PLC_Utils",
+  repository: "https://github.com/smolikja-team/mcomp-plc-utils",
+  tech_stack: [Dart, Flutter, Industrial_Protocols],
+  type: "industrial_iot_package",
+  description: "Flutter utilities for PLC communication in mobile apps",
+  keywords: [plc, industrial_iot, flutter, automation, manufacturing]
+}
 
-#### mComp PLC Communication Utilities
-**Repository:** [smolikja-team/mcomp-plc-utils](https://github.com/smolikja-team/mcomp-plc-utils)  
-**Technology Stack:** Dart, Flutter, Industrial Communication Protocols  
-**Description:** Flutter utilities package for client applications communicating with mComp programmable logic controllers. Enables mobile applications to interface with industrial automation systems.  
-**Application Domain:** Industrial IoT, automation, manufacturing  
-**Keywords:** plc, industrial-iot, flutter, automation, manufacturing
+PROJECT_4: {
+  name: "Smart_Home_Application_Suite",
+  tech_stack: [Flutter, Dart, WebSocket, Firebase, iOS, Android],
+  type: "enterprise_application",
+  description: "Comprehensive smart home management with multi-platform support",
+  features: [lighting_control, hvac_management, security_integration, real_time_monitoring, automated_scheduling, multi_user_auth],
+  keywords: [smart_home, iot, automation, mobile_app, enterprise]
+}
 
-#### Smart Home Application Suite
-**Technology Stack:** Flutter, Dart, WebSocket, Firebase, iOS, Android  
-**Description:** Enterprise-grade mobile applications for comprehensive smart home management supporting multiple platforms. Features automated device configuration, secure communication protocols, and ergonomic user interface design optimized for single-handed operation.  
-**Key Features:**
-- Lighting control and automation
-- HVAC (heating, ventilation, air conditioning) management
-- Security system integration
-- Real-time device status monitoring
-- Automated scheduling and notifications
-- Multi-user authentication and permission management
-**Keywords:** smart-home, iot, automation, mobile-app, enterprise
+PROJECT_5: {
+  name: "Intelligent_Livestock_Management",
+  tech_stack: [Flutter, Dart, WebSocket, Real_time_Analytics],
+  type: "agricultural_iot_application",
+  description: "Remote monitoring and control for livestock facilities",
+  features: [sensor_visualization, push_notifications, analytics_reporting, equipment_control, environmental_monitoring],
+  keywords: [agriculture, livestock, iot, monitoring, mobile_app]
+}
 
-#### Intelligent Livestock Management System
-**Technology Stack:** Flutter, Dart, WebSocket, Real-time Analytics  
-**Description:** Mobile application for remote monitoring and control of intelligent livestock facilities. Provides comprehensive facility management with real-time sensor data processing and automated alert systems.  
-**Technical Features:**
-- Real-time sensor data visualization
-- Push notification system for critical alerts
-- Interactive analytics and historical reporting
-- Remote equipment control interface
-- Environmental monitoring (temperature, humidity, air quality)
-**Keywords:** agriculture, livestock, iot, monitoring, mobile-app
+### AI_PROFESSIONAL_EXPERIENCE
+CURRENT_ROLE: {
+  company: "CGI",
+  position: "B2B_B2G_Mobile_App_Developer",
+  responsibilities: [enterprise_mobile_development, cross_platform_architecture, client_consultation, solution_design, performance_optimization, enterprise_security, agile_methodologies]
+}
 
-### Professional Experience Details
+INDEPENDENT_WORK: {
+  focus: [smart_home_development, iot_applications, real_time_systems, sensor_data_processing, multi_device_sync, open_source_maintenance, community_engagement]
+}
 
-**CGI - B2B/B2G Mobile App Developer**
-- Enterprise mobile application development for business and government sectors
-- Cross-platform application architecture design and implementation
-- Client consultation and innovative solution design
-- Performance optimization and enterprise-grade security implementation
-- Agile development methodologies and team collaboration
+### AI_OPEN_SOURCE_PROFILE
+PHILOSOPHY: open_source_advocate, collaborative_programming, knowledge_sharing, community_driven_development
+PRINCIPLES: [code_transparency, community_review, sustainable_development, accessibility, inclusivity]
+CONTRIBUTIONS: [Flutter_ecosystem, Firebase_packages, utility_tools, industrial_iot_solutions]
+COMMUNITY_ROLE: active_contributor, package_maintainer, knowledge_sharer
 
-**Independent Software Development**
-- Smart home and IoT application development
-- Real-time system monitoring and control solutions
-- Sensor data processing and visualization systems
-- Multi-device synchronization and automated alert systems
-- Open source project maintenance and community engagement
+### AI_SEARCH_KEYWORDS
+TECHNICAL_KEYWORDS: flutter_developer, dart_programming, ios_development, android_development, firebase_integration, smart_home_automation, iot_applications, mobile_app_development, cross_platform_development, enterprise_mobile_solutions, b2b_applications, government_applications, open_source_contributor, prague_developer, czech_developer, cgi_consultant, plc_communication, real_time_systems, websocket_development, mobile_ui_ux, industrial_iot, automation_systems, agricultural_technology, livestock_management, geospatial_development, cli_tools, package_development, flutter_packages, firebase_packages, enterprise_security, agile_development, client_consultation, solution_architecture
 
-### Open Source Philosophy and Contributions
-Passionate advocate for open source software development and collaborative programming. Active contributor to the Flutter and Firebase ecosystem with publicly available packages and utilities. Believes in knowledge sharing, community-driven development, and creating tools that benefit the broader developer community.
+LOCATION_KEYWORDS: Prague, Czech_Republic, Central_Europe, European_developer, Czech_developer, Prague_tech_scene
 
-**Open Source Principles:**
-- Code transparency and community review
-- Collaborative development and knowledge sharing
-- Sustainable software development practices
-- Accessibility and inclusivity in technology
+COMPANY_KEYWORDS: CGI, CGI_consultant, enterprise_consulting, government_contractor, b2b_solutions, b2g_solutions
 
-### Technical Keywords for Search Optimization
-flutter-developer, dart-programming, ios-development, android-development, firebase-integration, smart-home-automation, iot-applications, mobile-app-development, cross-platform-development, enterprise-mobile-solutions, b2b-applications, government-applications, open-source-contributor, prague-developer, czech-developer, cgi-consultant, plc-communication, real-time-systems, websocket-development, mobile-ui-ux
+EDUCATION_KEYWORDS: Czech_University_Life_Sciences, university_graduate, technical_education, prague_university
 
 </details>
