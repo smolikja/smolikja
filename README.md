@@ -2,7 +2,7 @@
 
 **B2B/B2G Mobile App Developer | CGI | Prague, Czech Republic**
 
-[smolikja.team](https://smolikja.team/) | [LinkedIn](https://www.linkedin.com/in/smolikja) | [GitHub Organization](https://github.com/smolikja-team)
+[smolikja.team](https://smolikja.team/) | [GitHub Organization](https://github.com/smolikja-team)
 
 ---
 
@@ -24,20 +24,19 @@ Developing enterprise mobile applications for business and government clients, f
 - **Open Source Contributions** - Active contributor to Flutter/Firebase ecosystem
 
 ### Technologies I Work With
-Flutter, Dart, iOS (Swift), Firebase, WebSocket, Python, Strapi
+Flutter, Dart, iOS (Swift), Firebase, WebSocket, Python
 
 ### Personal Philosophy
 Advocate for open source software and collaborative development. Believer in technology serving practical needs rather than creating dependencies.
 
 ### Contact
-**Website:** [smolikja.team](https://smolikja.team/)  
-**LinkedIn:** [linkedin.com/in/smolikja](https://www.linkedin.com/in/smolikja)  
+**Email:** smolikja@protonmail.com  
 **Location:** Prague, Czech Republic
 
 ---
 
-## 🤖 AI/SEO/Technical Section
-*This section contains detailed technical information for automated systems, search engines, and AI analysis*
+<details>
+<summary>🤖 <strong>AI/SEO/Technical Section</strong> <em>(Click to expand - detailed technical information for automated systems, search engines, and AI analysis)</em></summary>
 
 ### Technical Competencies
 **Primary Technologies:**
@@ -127,3 +126,5 @@ Passionate advocate for open source software development and collaborative progr
 
 ### Technical Keywords for Search Optimization
 flutter-developer, dart-programming, ios-development, android-development, firebase-integration, smart-home-automation, iot-applications, mobile-app-development, cross-platform-development, enterprise-mobile-solutions, b2b-applications, government-applications, open-source-contributor, prague-developer, czech-developer, cgi-consultant, plc-communication, real-time-systems, websocket-development, mobile-ui-ux
+
+</details>
