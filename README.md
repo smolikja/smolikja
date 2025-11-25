@@ -13,7 +13,7 @@ Beyond my work at CGI, I run **smolikja.team**, a small mobile development unit 
 
 ## 🧠 What I'm Working On
 - LLM-based workflows for architecture, code generation & documentation  
-- Clean & modular Flutter architectures (Riverpod, BLoC, Firebase, WebSockets)  
+- Clean & modular Flutter architectures (Riverpod, Firebase, REST API, WebSocket)  
 - Native iOS development (Swift, SwiftUI, UIKit, Combine, MVVM)  
 - Self-hosted infrastructure (Linux servers, Strapi CMS, Nginx, open-source tooling)  
 - Our mobile app & community platform: **Studánky**
@@ -22,9 +22,9 @@ Beyond my work at CGI, I run **smolikja.team**, a small mobile development unit 
 
 ## 🛠️ Technologies & Tools
 **Mobile:** Flutter, Dart, Swift, SwiftUI, UIKit, Combine  
-**Backend / Infra:** Strapi, Nginx, Linux, Docker (optional), GitLab CI/CD  
+**Backend / Infra:** Strapi, Nginx, Linux, Docker, GitLab CI/CD, GitHub Actions  
 **AI / LLM:** Prompt engineering, context engineering, LLM workflows, AI-augmented development  
-**Other:** Firebase, REST APIs, WebSockets, Clean Architecture
+**Other:** Firebase, REST APIs, WebSocket, Clean Architecture
 
 ---
 
